@@ -1,0 +1,1242 @@
+svchost.exe        pid: 10764  type: File          KYIV\andbud                54C: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\2368593c70ec1ba8\ActivitiesCache.db
+
+svchost.exe        pid: 10764  type: File          KYIV\andbud                560: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\2368593c70ec1ba8\ActivitiesCache.db-wal
+
+svchost.exe        pid: 10764  type: File          KYIV\andbud                568: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\L.andbud\ActivitiesCache.db-shm
+
+svchost.exe        pid: 10764  type: File          KYIV\andbud                570: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\L.andbud\ActivitiesCache.db
+
+svchost.exe        pid: 10764  type: File          KYIV\andbud                574: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\L.andbud\ActivitiesCache.db-wal
+
+svchost.exe        pid: 10764  type: File          KYIV\andbud                58C: C:\Users\andbud\AppData\Local\ConnectedDevicesPlatform\2368593c70ec1ba8\ActivitiesCache.db-shm
+
+svchost.exe        pid: 10564  type: File          KYIV\andbud                178: C:\Users\andbud\AppData\Local\Microsoft\Windows\Notifications\WPNPRMRY.tmp
+
+svchost.exe        pid: 10564  type: File          KYIV\andbud                254: C:\Users\andbud\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-wal
+
+svchost.exe        pid: 10564  type: File          KYIV\andbud                2BC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db
+
+svchost.exe        pid: 10564  type: File          KYIV\andbud                300: C:\Users\andbud\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+
+taskhostw.exe      pid: 11968  type: File          KYIV\andbud                15C: C:\Users\andbud\AppData\Local\Microsoft\Windows\WebCache\V01.log
+
+taskhostw.exe      pid: 11968  type: File          KYIV\andbud                344: C:\Users\andbud\AppData\Local\Microsoft\Windows\WebCacheLock.dat
+
+taskhostw.exe      pid: 11968  type: File          KYIV\andbud                38C: C:\Users\andbud\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+
+taskhostw.exe      pid: 11968  type: File          KYIV\andbud                390: C:\Users\andbud\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+
+taskhostw.exe      pid: 11968  type: File          KYIV\andbud                4A8: C:\Users\andbud\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                30C: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\edb.log
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                34C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.edb
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                350: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.jfm
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                3D0: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\IndexedDB.jfm
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                3DC: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\IndexedDB.edb
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                444: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\AppQuota.edb
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                450: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\AppQuota.jfm
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                464: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\Indexed DB\edb.log
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                48C: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edbtmp.log
+
+dllhost.exe        pid: 1640   type: File          KYIV\andbud                494: C:\Users\andbud\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+
+svchost.exe        pid: 18092  type: File          KYIV\andbud                1C8: C:\Users\andbud\AppData\Local\Comms\UnistoreDB\store.jfm
+
+svchost.exe        pid: 18092  type: File          KYIV\andbud                334: C:\Users\andbud\AppData\Local\Comms\UnistoreDB\USS.jtx
+
+svchost.exe        pid: 18092  type: File          KYIV\andbud                344: C:\Users\andbud\AppData\Local\Comms\UnistoreDB\tmp.edb
+
+svchost.exe        pid: 18092  type: File          KYIV\andbud                374: C:\Users\andbud\AppData\Local\Comms\UnistoreDB\store.vol
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                46C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\BrowserMetrics\BrowserMetrics-61090C34-1BF8.pma
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                4D4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                570: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\IndexedDB\https_windows.msn.com_0.indexeddb.leveldb\000061.ldb
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                784: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                78C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\WebAssistDatabase
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                7B8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\SmartScreen\local\cache
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                7C8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\SmartScreen\local\download_cache
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                7E4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\SmartScreen\local\warnStateCache
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                870: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                890: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                89C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8A0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8A8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8AC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8B8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8BC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8C4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                8C8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                92C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\lockfile
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                93C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\data_reduction_proxy_leveldb\000081.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                AC8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Top Sites
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                B14: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                B34: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Favicons
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                B54: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Network Action Predictor
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                B64: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\Database\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                B9C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Visited Links
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                BB8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\History
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                BC0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Site Characteristics Database\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                BCC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Web Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                C40: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Login Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                C98: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Site Characteristics Database\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CA8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Site Characteristics Database\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CBC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Site Characteristics Database\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CC0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Sync Data\LevelDB\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CC4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Sync Data\LevelDB\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CC8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Sync Data\LevelDB\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CD0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Sync Data\LevelDB\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CD4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CD8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CE4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\Database\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                CEC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\Database\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                D14: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\Database\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                DCC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Extension State\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                DF0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                DF4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                DF8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E00: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E04: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E0C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E10: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E18: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E1C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                E24: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Local Storage\leveldb\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                EAC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Extension State\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                F28: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Extension State\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                F2C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Extension State\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                F44: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\QuotaManager
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                F4C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\QuotaManager-journal
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                F6C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud                FA4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\data_reduction_proxy_leveldb\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1108: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1110: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1120: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\index
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1124: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1128: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_0
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1138: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\databases\Databases.db
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1144: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1150: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\data_reduction_proxy_leveldb\MANIFEST-000080
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1168: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_1
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               116C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1170: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_2
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1178: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               117C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\data_3
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               11D4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\History-journal
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1220: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\IndexedDB\https_windows.msn.com_0.indexeddb.leveldb\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               122C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\IndexedDB\https_windows.msn.com_0.indexeddb.leveldb\000059.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1234: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\metadata\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1238: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\IndexedDB\https_windows.msn.com_0.indexeddb.leveldb\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1248: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\IndexedDB\https_windows.msn.com_0.indexeddb.leveldb\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1250: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1258: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Session Storage\LOCK
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               129C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Functional SAN Data-wal
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1344: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\CrashpadMetrics-active.pma
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1350: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\data_reduction_proxy_leveldb\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               136C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\metadata\000003.log
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1370: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Functional SAN Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               138C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Functional Data-wal
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               139C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\metadata\MANIFEST-000001
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               13A4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Functional Data
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               13C4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\metadata\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               13D4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\shared_proto_db\LOG
+
+msedgewebview2.exe pid: 7160   type: File          KYIV\andbud               1570: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Network Action Predictor-journal
+
+msedgewebview2.exe pid: 3492   type: File          KYIV\andbud                114: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\CrashpadMetrics-active.pma
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                 C0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Reporting and NEL
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                3E0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_3
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                3E8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_3
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                474: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_1
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                484: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cookies-journal
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                488: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cookies
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4A4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\index
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4A8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\index
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4B0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_0
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4B4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_0
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4BC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_1
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4C4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_2
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                4C8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\data_2
+
+msedgewebview2.exe pid: 19132  type: File          KYIV\andbud                5B0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Reporting and NEL-journal
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                34C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Local Storage\leveldb\LOG
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                350: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Local Storage\leveldb\000004.log
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                354: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Local Storage\leveldb\MANIFEST-000001
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                358: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Local Storage\leveldb\000005.ldb
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                370: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Session Storage\LOG
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                37C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Session Storage\MANIFEST-000001
+
+msedgewebview2.exe pid: 7504   type: File          KYIV\andbud                380: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Session Storage\000003.log
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                31C: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                340: C:\Users\andbud\AppData\Local\Temp\eccc24da-97f4-4d5b-b52d-898e4261abed.tmp
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                404: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                6B4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Thin.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                6BC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Medium.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                6C0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Regular.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                6E4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Italic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                70C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-CondensedItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                714: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Condensed.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                71C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-BoldItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                720: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-BoldCondensedItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                728: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-BoldCondensed.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                72C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Bold.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                730: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-BlackItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                734: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Black.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                740: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-ThinItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                750: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-LightItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                7B8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-MediumItalic.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                818: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Light.ttf
+
+msedgewebview2.exe pid: 20380  type: File          KYIV\andbud                824: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Roboto-Regular.ttf
+
+WindowsTerminal.exe pid: 17820  type: File          KYIV\andbud                730: C:\Users\andbud\AppData\Local\Packages\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\LocalState
+
+WindowsTerminal.exe pid: 17820  type: File          KYIV\andbud                A98: C:\Users\andbud\AppData\Local\Microsoft\Windows\Fonts\Space Mono Nerd Font Complete Mono Windows Compatible.ttf
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud                6CC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud                BE4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Burn
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               15BC: C:\Users\andbud\AppData\Local\Microsoft\GameDVR\KnownGameList.bin
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               1608: C:\Users\andbud\AppData\Local\Microsoft\GameDVR
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               160C: C:\Users\andbud\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalCache
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               20CC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               2678: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               2760: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               2EB4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               2EEC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               2FB8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               34EC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3540: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               38C0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3958: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3AA4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3D84: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3EA8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3EB8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               3F14: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               40BC: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4220: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4364: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               43A4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4468: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4558: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4968: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4D44: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4D4C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4D9C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               4E80: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               50D0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5134: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5174: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               53B0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5568: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5600: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5708: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5734: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5A48: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5B54: C:\Users\andbud\AppData\Local\Microsoft\Windows\Burn
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5B6C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5C68: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5D98: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5E14: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5F54: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               5FC8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               61F0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               6598: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+
+explorer.exe       pid: 12944  type: File          KYIV\andbud               6734: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+SearchHost.exe     pid: 18980  type: File          KYIV\andbud                A60: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\TileCache_100_3_PNGEncoded_Header.bin
+
+SearchHost.exe     pid: 18980  type: File          KYIV\andbud               1098: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\Microsoft\ServiceWorkerFiles\631BD004-41A6-4BD4-8773-306F66D749AD\cS2DkZhWtLs_1.bytecode
+
+SearchHost.exe     pid: 18980  type: File          KYIV\andbud               1370: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\Microsoft\Internet Explorer\DOMStore\0QCIHE3M
+
+SearchHost.exe     pid: 18980  type: File          KYIV\andbud               1678: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\TileCache_100_3_PNGEncoded_Data.bin
+
+TextInputHost.exe  pid: 20016  type: File          KYIV\andbud                DE4: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalCache\PackageFeed\inputsuggestions.ppe\7.87.21202.1.appx
+
+TextInputHost.exe  pid: 20016  type: File          KYIV\andbud                DE8: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\Temp\APPX.94emaid8sxdzhi2wsd64_7m_.tmp
+
+TextInputHost.exe  pid: 20016  type: File          KYIV\andbud               11AC: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\Temp\APPX.3pxpb3yynfj2ji7ue0vumvcfh.tmp
+
+TextInputHost.exe  pid: 20016  type: File          KYIV\andbud               11C0: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\Temp\APPX.xr844hcqxda7l94zbzvcgunme.tmp
+
+StartMenuExperienceHost.exe pid: 19704  type: File          KYIV\andbud                A90: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_3_PNGEncoded_Header.bin
+
+StartMenuExperienceHost.exe pid: 19704  type: File          KYIV\andbud                A98: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_3_PNGEncoded_Data.bin
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                354: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                5F4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Managed Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                624: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                63C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Managed Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                668: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\000109.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                720: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                724: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\lockfile
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                734: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                740: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                750: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                75C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                760: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                770: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                780: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                7A8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                7B8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                908: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\History
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                910: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Web Data
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                944: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Web Data-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                950: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\History-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                954: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Login Data-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                958: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Site Characteristics Database\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                96C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                970: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                980: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A0C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Login Data For Account
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A14: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Login Data
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A18: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A28: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Favicons
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A2C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Site Characteristics Database\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A30: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Site Characteristics Database\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A38: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Login Data For Account-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A78: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A7C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A80: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A88: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Site Characteristics Database\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                A98: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AA8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AB8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\002540.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AC0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AC8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\002542.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AD0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Data\LevelDB\000005.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                AEC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Favicons-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B04: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B0C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B10: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B14: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B18: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B1C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B40: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B48: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B4C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B50: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B58: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B5C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B64: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B74: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Top Sites
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B78: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Top Sites-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B80: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B84: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B8C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                B90: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                C04: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                C74: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                C88: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                CA4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                D14: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                D1C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                DC8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Service Worker\Database\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                DE8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Service Worker\Database\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                DFC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Service Worker\Database\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                E00: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Service Worker\Database\000033.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                E1C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Visited Links
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                E20: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Service Worker\Database\000035.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud                FC0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1020: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1024: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1058: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1064: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1068: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10CC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_1
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10D0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10D8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10DC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\002493.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10E0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\002489.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Platform Notifications\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10E8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Platform Notifications\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10EC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Platform Notifications\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Platform Notifications\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10F4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\000005.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10F8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\002494.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               10FC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension State\002492.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               111C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Platform Notifications\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1120: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Platform Notifications\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1124: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Platform Notifications\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1128: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Platform Notifications\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1134: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               11C8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_2
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               11CC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_0
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               11E0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1264: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\index
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               12A8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               12B0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_3
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               143C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               144C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sessions\Tabs_13272466810039223
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               148C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1548: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\data_reduction_proxy_leveldb\MANIFEST-000322
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               154C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\data_reduction_proxy_leveldb\000323.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1694: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sessions\Session_13272468857412835
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1728: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\heavy_ad_intervention_opt_out.db-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               172C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aapbdbdomjkkjkaonfhkkikfgjllcleb\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1C14: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1C28: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jaoafpkngncfpfggjefnekilbkcpjdgp\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1CDC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1D90: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Rules\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1D9C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Rules\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1E18: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Rules\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1E1C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Rules\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1F44: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               1FA8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000014.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               20DC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jaoafpkngncfpfggjefnekilbkcpjdgp\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2184: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Shortcuts-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2334: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\Encryption\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               24E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000008.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               262C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\data_reduction_proxy_leveldb\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2870: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\bkkbcggnhapdmkeljlodobbkopceiche\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               289C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\000023.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28A0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\000056.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28A4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\000053.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28A8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28AC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\metadata\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28B0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\metadata\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28B4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\Encryption\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28BC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\Encryption\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28C0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\metadata\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28C8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\Encryption\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               28DC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\metadata\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               298C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jaoafpkngncfpfggjefnekilbkcpjdgp\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               29B4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\heavy_ad_intervention_opt_out.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               29B8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Network Action Predictor-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               29E0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Shortcuts
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2A00: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Network Action Predictor
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2A70: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aapbdbdomjkkjkaonfhkkikfgjllcleb\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2A7C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aomjjhallfgjeglblehebfpbcfeobpgk\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2A80: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2A9C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000016.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2B38: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000005.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2D68: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jaoafpkngncfpfggjefnekilbkcpjdgp\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E0C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E38: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\mooikfkahbdckldjjndioackbalphokd\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E3C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E58: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\000106.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E94: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\mooikfkahbdckldjjndioackbalphokd\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2E9C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\data_reduction_proxy_leveldb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               2ED4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               325C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aapbdbdomjkkjkaonfhkkikfgjllcleb\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3388: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\shared_proto_db\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               345C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               354C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Session Storage\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               37A0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\mooikfkahbdckldjjndioackbalphokd\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3988: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aomjjhallfgjeglblehebfpbcfeobpgk\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3ABC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3C58: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3CAC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aomjjhallfgjeglblehebfpbcfeobpgk\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3DBC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3DCC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\000032.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3E1C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\000034.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3E20: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\000005.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3E98: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\000007.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3FE8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               3FEC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\mooikfkahbdckldjjndioackbalphokd\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4024: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4224: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               42A4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\lgblnfidahcdcjddiepkckcfdhpknnjh\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               42F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               42F8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               44E8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Managed Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4624: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\bkkbcggnhapdmkeljlodobbkopceiche\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               482C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\bkkbcggnhapdmkeljlodobbkopceiche\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4848: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               484C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4858: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aadahadfdmiibmdhfmpbeeebejmjnkef\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4870: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000017.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4878: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               48BC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\QuotaManager
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               48D8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\QuotaManager-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               48E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Cookies
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               48F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Extension Cookies-journal
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               48F8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Managed Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4918: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\bkkbcggnhapdmkeljlodobbkopceiche\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4A58: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Platform Notifications\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4A74: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4AFC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\databases\Databases.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4B80: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\File System\Origins\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4B84: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\File System\Origins\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4B90: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4C80: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4D68: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aapbdbdomjkkjkaonfhkkikfgjllcleb\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               4F64: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\jdbnofccmhefkmjbkkdkfiicjkgofkdh\000011.ldb
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5038: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5054: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               50E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5128: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5150: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb\000108.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               51E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\File System\Origins\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5234: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\File System\Origins\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5248: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\GCM Store\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               524C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               528C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               52A4: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               52B0: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               52FC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\MANIFEST-000001
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5618: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Platform Notifications\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5620: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Platform Notifications\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5670: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Platform Notifications\000003.log
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5944: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\eimadpbcbfnmbkopoojfekhnkhdbieeh\LOCK
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5958: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\aomjjhallfgjeglblehebfpbcfeobpgk\LOG
+
+chrome.exe         pid: 4180   type: File          KYIV\andbud               5B60: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\kbfnbcaeplbcioakkpcpgfkobkghlhen\000009.ldb
+
+chrome.exe         pid: 19296  type: File          KYIV\andbud                114: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\CrashpadMetrics-active.pma
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                3F8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_3
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                440: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cookies
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                448: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cookies-journal
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                454: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\index
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                458: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\index
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                460: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_0
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                464: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_0
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                46C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_1
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                470: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_1
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                478: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_2
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                47C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_2
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                484: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\data_3
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                4F4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Reporting and NEL
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                51C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Reporting and NEL-journal
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                684: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Safe Browsing Cookies-journal
+
+chrome.exe         pid: 10828  type: File          KYIV\andbud                7B8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Safe Browsing Cookies
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                11C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                31C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\MANIFEST-000001
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                324: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000887.log
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                328: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074182.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                338: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                33C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\MANIFEST-070414
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                344: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074183.log
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                348: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000082.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                34C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                354: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000888.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                358: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074179.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                35C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000885.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                360: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074184.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                364: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000883.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                36C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Session Storage\000880.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                370: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\000005.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                380: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\MANIFEST-000001
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                38C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\000003.log
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3A4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3B0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\MANIFEST-000001
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3B4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\000003.log
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3C4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3CC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb\MANIFEST-000001
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3D4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb\000003.log
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3DC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074180.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3E4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb\074181.ldb
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3E8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Session Storage\LOG
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3F4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Session Storage\MANIFEST-000001
+
+chrome.exe         pid: 2420   type: File          KYIV\andbud                3FC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext
+mmhkkegccagdldgiimedpiccmgmieda\def\Session Storage\000003.log
+
+chrome.exe         pid: 3744   type: File          KYIV\andbud                1B8: C:\Users\andbud\AppData\Local\Temp\649d0ade-0ead-4450-8511-a1140d1a86ec.tmp
+
+chrome.exe         pid: 3744   type: File          KYIV\andbud                2E8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 3044   type: File          KYIV\andbud                2F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 3044   type: File          KYIV\andbud                30C: C:\Users\andbud\AppData\Local\Temp\084d4756-64aa-4707-912e-b5f6e3a2bc31.tmp
+
+chrome.exe         pid: 116    type: File          KYIV\andbud                228: C:\Users\andbud\AppData\Local\Temp\b36c0ced-d170-469c-afc3-e1962350eb55.tmp
+
+chrome.exe         pid: 116    type: File          KYIV\andbud                2E8: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 6624   type: File          KYIV\andbud                104: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 6624   type: File          KYIV\andbud                2F8: C:\Users\andbud\AppData\Local\Temp\73b9ef4c-251d-4706-a08f-a6d16330cb88.tmp
+
+chrome.exe         pid: 11368  type: File          KYIV\andbud                2F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 11368  type: File          KYIV\andbud                310: C:\Users\andbud\AppData\Local\Temp\aa1a9793-45ee-4880-9901-1c63c26ccf17.tmp
+
+chrome.exe         pid: 7772   type: File          KYIV\andbud                2DC: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 7772   type: File          KYIV\andbud                300: C:\Users\andbud\AppData\Local\Temp\b5935b82-2583-46d3-b5a5-d1532230dc7f.tmp
+
+chrome.exe         pid: 19588  type: File          KYIV\andbud                2D0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 19588  type: File          KYIV\andbud                314: C:\Users\andbud\AppData\Local\Temp\97c720b2-0208-4e84-99d6-ade149367a85.tmp
+
+chrome.exe         pid: 13336  type: File          KYIV\andbud                374: C:\Users\andbud\AppData\Local\Temp\b71045fc-9b11-4218-b0e0-da6cf4fe73e8.tmp
+
+chrome.exe         pid: 13336  type: File          KYIV\andbud                380: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 14696  type: File          KYIV\andbud                2C0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 14696  type: File          KYIV\andbud                30C: C:\Users\andbud\AppData\Local\Temp\a617968c-3923-4fa4-9ee6-b561010da00e.tmp
+
+chrome.exe         pid: 3056   type: File          KYIV\andbud                24C: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 3056   type: File          KYIV\andbud                310: C:\Users\andbud\AppData\Local\Temp\5d6c9701-90fd-4361-b3a3-9f78d8439a47.tmp
+
+chrome.exe         pid: 14600  type: File          KYIV\andbud                2A0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 14600  type: File          KYIV\andbud                314: C:\Users\andbud\AppData\Local\Temp\b15f4c62-4ff7-4afa-acf2-167c9b455d64.tmp
+
+chrome.exe         pid: 10872  type: File          KYIV\andbud                2D4: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 10872  type: File          KYIV\andbud                308: C:\Users\andbud\AppData\Local\Temp\bc648053-0dca-4a3b-9342-e3873341d704.tmp
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                1F8: C:\Users\andbud\AppData\Local\Temp\hsperfdata_andbud\10524
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                59C: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\log\idea.log
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                BC8: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\py.module.name\Py.module.name.storage_i
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                C80: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filenameindex\FilenameIndex.storage
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                D60: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\icons-v3.db
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E1C: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\caches\attrib.dat.storageRecordIndex
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E20: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\caches\attrib.dat.storageData
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E24: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\caches\content.dat.storageData
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E2C: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\caches\content.dat.storageRecordIndex
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E50: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\LocalHistory\changes.storageRecordIndex
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                E54: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\LocalHistory\changes.storageData
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                EF4: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filenameindex\FilenameIndex_inputs
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud                F44: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\shared_indexes\shared-index.chunks
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1180: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\py.module.name\Py.module.name_inputs
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1230: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\py.module.name\Py.module.name.storage
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               16F0: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filetypes\filetypes.log.index.project
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1788: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\py.module.name\Py.module.name.storage.keystream
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1818: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filenameindex\FilenameIndex.storage_i
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1844: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\hashfragmentindex\HashFragmentIndex.storage.values
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1850: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\stubs\Stubs.storage.values
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1858: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filenameindex\FilenameIndex.storage.keystream
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1910: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\py.module.name\Py.module.name_inputs_i
+
+pycharm64.exe      pid: 10524  type: File          KYIV\andbud               1920: C:\Users\andbud\AppData\Local\JetBrains\PyCharm2021.2\index\filenameindex\FilenameIndex_inputs_i
+
+msedgewebview2.exe pid: 18888  type: File          KYIV\andbud                314: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 18888  type: File          KYIV\andbud                324: C:\Users\andbud\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+msedgewebview2.exe pid: 18888  type: File          KYIV\andbud                33C: C:\Users\andbud\AppData\Local\Temp\7fc61c40-3cdf-48a0-be43-217f594b2cd7.tmp
+
+chrome.exe         pid: 10664  type: File          KYIV\andbud                2F0: C:\Users\andbud\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\30\9.28.0\Ruleset Data
+
+chrome.exe         pid: 10664  type: File          KYIV\andbud                324: C:\Users\andbud\AppData\Local\Temp\6bb4dde1-7e3f-444c-99a6-5a168eb04507.tmp
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                340: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                688: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-shm
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                804: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                820: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\PhotosAppTracing_startedInBGMode.etl
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                840: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                84C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                850: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                874: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                878: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                880: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                894: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                898: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                8EC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                8F8: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                928: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                930: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                934: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                948: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                950: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                960: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                978: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                990: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                994: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                998: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                99C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9A0: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9B8: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9BC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9C0: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9C8: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                9CC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A1C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A20: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A24: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A54: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A58: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A6C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A70: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A7C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A80: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                A84: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                AA4: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                AAC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                AB0: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                ACC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                AD0: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                AF8: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                B10: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                C08: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                C20: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                C24: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                CFC: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D08: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D2C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D30: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D34: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D38: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D44: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D48: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D54: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D68: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D6C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D7C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D88: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D8C: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+Microsoft.Photos.exe pid: 5856   type: File          KYIV\andbud                D90: C:\Users\andbud\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+
+RuntimeBroker.exe  pid: 3624   type: File          KYIV\andbud                7E8: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+RuntimeBroker.exe  pid: 3624   type: File          KYIV\andbud                820: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+
+RuntimeBroker.exe  pid: 3624   type: File          KYIV\andbud                82C: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+
+RuntimeBroker.exe  pid: 3624   type: File          KYIV\andbud                838: C:\Users\andbud\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+
+Video.UI.exe       pid: 19472  type: File          KYIV\andbud                5EC: C:\Users\andbud\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\edb.log
+
+Video.UI.exe       pid: 19472  type: File          KYIV\andbud                6B4: C:\Users\andbud\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\EntClientDb.edb
+
+Video.UI.exe       pid: 19472  type: File          KYIV\andbud                794: C:\Users\andbud\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\EntClientDb.jfm
+
+Video.UI.exe       pid: 19472  type: File          KYIV\andbud                7C4: C:\Users\andbud\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\tmp.edb
+
