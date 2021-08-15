@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}all users in db:{% endblock %}
+{% block content %}
+    <h4>list of all users:</h4>
+    <hr>
+    {% for item in values %}
+        <ul>
+            <p>name: {{ item.name }}</p>
+            <p>id: {{ item._id }}</p>
+            <p>email: {{ item.email }}</p>
+        </ul>
+        <hr>
+    {% endfor %}
+{% endblock %}
