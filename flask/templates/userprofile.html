@@ -8,9 +8,18 @@
             {% endfor %}
         {% endif %}
     {% endwith %}
-    <h3>hello, {{ user }}</h3>
-    <form action="#" method="POST">
-        <input type="email" name="email" placeholder="enter email" value="{{ email if email }}"/>
-        <input type="submit" value="submit"/>
-    </form>
+
+    <div class="grid-container">
+        <div class="info-holder">
+            <h3>hello, {{ user }}</h3>
+            <p>user id: {{ id if id }}</p>
+            <p>email: {{ email if email }}</p>
+        </div>
+        <div>
+            <form action="#" method="POST">
+                <input type="email" name="email" placeholder="enter email" value="{{ email if email }}"/>
+                <input type="submit" value="add email"/>
+            </form>
+        </div>
+    </div>
 {% endblock %}

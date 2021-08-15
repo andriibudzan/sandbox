@@ -3,6 +3,8 @@
 <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <title>{% block title %}{% endblock %}</title>
+{#    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style.css') }}">#}
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/grid.css') }}">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -36,6 +38,9 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/users">list users</a></li>
                         </ul>
+                    </li>
+                    <li>
+                        <a class="nav-link active" aria-current="page" href="/egg">I WANT TO SEE A CAT!</a>
                     </li>
                 </ul>
             </div>

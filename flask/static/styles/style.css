@@ -1,0 +1,28 @@
+h3 {
+    color: red;
+}
+
+body {
+    background-color: darkslategrey;
+    color: cyan;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: "--> ";
+}
+
+.box {
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-bottom: 1px solid black;
+    border-left: 2px solid magenta;
+    border-right: 4px solid red;
+    border-top: 8px solid greenyellow;
+    transform: rotate(0.79turn);
+}

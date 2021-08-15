@@ -73,18 +73,19 @@ def user():
     email = None
     if "user" in session:
         user = session.get("user")
-
+        found_user = users.query.filter_by(name=user).first()
+        uid = found_user._id
         if request.method == "POST":
             email = request.form.get("email", "")
             session["email"] = email
-            found_user = users.query.filter_by(name=user).first()
+            # found_user = users.query.filter_by(name=user).first()
             found_user.email = email
             db.session.commit()
             flash('your email saved')
         else:
             if "email" in session:
                 email = session.get("email", "")
-        return render_template("userprofile.html", user=user, email=email)
+        return render_template("userprofile.html", user=user, email=email, id=uid)
     else:
         flash(f"you are not logged in")
         return redirect(url_for("login"))
@@ -93,6 +94,10 @@ def user():
 @app.route("/users")
 def list_users():
     return render_template("list_users.html", values=users.query.all())
+
+@app.route("/egg")
+def easteregg():
+    return render_template("easteregg.html")
 
 
 if __name__ == '__main__':
