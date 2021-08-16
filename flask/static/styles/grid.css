@@ -2,8 +2,3 @@
     display: grid;
     grid-template-columns: auto 300px;
 }
-
-.easteregg {
-    /*grid-column: 2 / span 3;*/
-    /*border: 2px solid black;*/
-}
